@@ -1,4 +1,4 @@
-# Hi, I'm Ikra Idrisi 👋
+# Hi, I'm Ikra👋
 
 ### Software Developer Intern | Full Stack Developer | B.Tech CSE Student
 
