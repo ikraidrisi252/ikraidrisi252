@@ -48,6 +48,6 @@ Passionate about building scalable, user-focused web applications, solving compl
 
 ## ⚡ GitHub Activity Highlights & Focus
 
-- 🌱 **Currently learning:** Advanced JavaScript, React.js optimizations, Advanced DSA, and scalable Backend Architecture.
+- 🌱 **Currently learning:** Advanced Data Analytics (Pandas, Seaborn, Power BI) and scalable cloud-native architectures.
 - 👯 **Looking to collaborate on:** Full-stack web applications, open-source projects, and social-impact tech initiatives.
 - 💬 **Ask me about:** Building MERN stack web apps, QR-based asset tracking systems, or Java-based DSA solutions.
