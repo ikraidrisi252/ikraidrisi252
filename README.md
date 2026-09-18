@@ -1,6 +1,6 @@
 # <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=800&size=48&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=650&lines=HI%2C+I'M+IKRA;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;AI+INTEGRATION+ENTHUSIAST" alt="Typing SVG" /> </p>
 
-<h3 align="center">Software Developer Intern | Full Stack Developer | B.Tech CSE Student</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | B.Tech CSE Student</h3>
 
 <p align="center">
 Passionate about building scalable, user-focused web applications, solving complex DSA problems, and exploring modern software development technologies.
